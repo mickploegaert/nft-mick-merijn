@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Volledige Scrum Board Handleiding
+    url: https://github.com/mickploegaert/nft-mick-merijn/blob/main/SCRUMBOARD.md
+    about: Bekijk de complete handleiding voor het opzetten van een scrum board
+  - name: ⚡ Quick Reference Guide
+    url: https://github.com/mickploegaert/nft-mick-merijn/blob/main/.github/docs/SCRUM_QUICK_REFERENCE.md
+    about: Snelle referentie voor het gebruik van het scrum board
